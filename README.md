@@ -1,4 +1,4 @@
-# ICML 2026 Sequential Design Demo
+# ICML 2026 Robust Sequential Experimental Design for A/B Testing Demo
 
 This repository contains a compact implementation demo for the sequential design method used in our ICML 2026 paper. The code builds Monte Carlo Q-value datasets, trains neural Q-function approximators, runs backward sequential decision training, and evaluates the learned sequential designs against randomized assignment baselines.
 
